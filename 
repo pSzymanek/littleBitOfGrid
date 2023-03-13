@@ -1,0 +1,11 @@
+[33mcommit 0a9edc46cc3947e18b22b03938b49e9dff785a59[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: pSzymanek <poczta.piotrszymanek@gmail.com>
+Date:   Thu Feb 16 14:49:58 2023 +0100
+
+    header & basic nav funcionalities
+
+[33mcommit 075292d311c8145c478a61bbac86c5820412af34[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: pSzymanek <poczta.piotrszymanek@gmail.com>
+Date:   Wed Feb 15 12:22:10 2023 +0100
+
+    file & folder structure
